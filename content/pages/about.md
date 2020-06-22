@@ -2,10 +2,9 @@
 template: page
 title: About me
 socialImage: /media/image-2.jpg
-slug: test
+slug: about
 draft: false
 ---
-<h1>About Me</h1>
 <p>I'm a lifelong learner. </p>
 
 ## Languages and Tools
