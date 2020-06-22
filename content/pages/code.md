@@ -2,7 +2,7 @@
 template: page
 title: Code
 slug: code
-draft: false
+draft: true
 ---
 <h3>Dapps & Smart Contracts</h3>
 
