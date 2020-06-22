@@ -1,11 +1,11 @@
 ---
 template: post
 title: "ETH Denver: Serendipity Squared"
-slug: /posts/one-hundred-and-fifteenth-post
+slug: /one-hundred-and-fifteenth-post
 draft: false
 date: 2020-02-13T19:00:00.000Z
 description: How was ETH Denver? Amazing.
-category: "Ethereum"
+category: Ethereum
 tags:
   - ETH Denver
   - DeLance
