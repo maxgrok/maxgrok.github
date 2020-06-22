@@ -12,7 +12,7 @@ tags:
   - Raid Guild
 ---
 <strong>TL:DR;
-Clr.fund uses hack-resistant methods to create a way to allocate funding for public goods projects in the Ethereum ecosystem. It's coming soon.</strong>
+Clr.fund uses attack-resistant methods to create a way to allocate funding for public goods projects in the Ethereum ecosystem. It's coming soon.</strong>
 -----------------------------------------------
 
 <h4>MACI -- Minimal Anti-Collusion Infrastructure </h4><p> In order to understand anti-collusion infrastructure, we must understand collusion. <a href="https://en.wikipedia.org/wiki/Collusion">Collusion</a> = "a secret cooperation or deceitful agreement in order to deceive others". Collusion in clr.fund's case is to coordinate the domination of funding allocation to one project or another. <br/><br/>
