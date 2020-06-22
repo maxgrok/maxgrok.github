@@ -1,7 +1,7 @@
 ---
 template: post
 title: How to Mint Your Own Mintable ERC20 Token
-slug: /posts/one-hundred-and-sixteenth-post
+slug: one-hundred-and-sixteenth-post
 draft: false
 date: 2020-02-13T19:00:00.000Z
 description: Learn how to mint your own mintable ERC20 token with Solidity,

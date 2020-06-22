@@ -1,7 +1,7 @@
 ---
 template: post
 title: "Github 2FA: Personal Access Tokens"
-slug: /posts/one-hundred-and-seventeenth-post
+slug: one-hundred-and-seventeenth-post
 draft: false
 date: 2020-04-01T04:00:00.000Z
 description: Having trouble making commits with 2FA authorized on your Github?
