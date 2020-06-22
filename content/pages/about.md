@@ -2,7 +2,7 @@
 template: page
 title: About me
 socialImage: /media/image-2.jpg
-slug: About
+slug: test
 draft: false
 ---
 <h1>About Me</h1>
