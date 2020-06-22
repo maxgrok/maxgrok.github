@@ -40,7 +40,7 @@ The flow of MACI goes like this:
 
 <h4>Sybil Attack Resistance </h4><p><a href="http://www.brightid.org/">BrightID</a> is used for sybil resistance in the first version of Clr.fund's MVP by providing proof of unique identities on the blockchain. This prevents the sybil attack from occuring on a permissionless funding platform like clr.fund.</p>
 
-<h3>Part Three: How Clr.Fund MVP Works</h3>
+<h3>How Clr.Fund Prototype Works</h3>
 
 Here's a flow of how the contracts will work:
 <a href="https://imgur.com/RAeSksA">
@@ -52,9 +52,9 @@ Let's walk through this.
 TO DO: ---> Needs explanation in steps with code snippets?
 TO DO: Verify with Kirill that your steps and understanding is correct.  
 
-<h3>Congratulations! You now understand the Clr.Fund basics!</h3>
+<h3>Congratulations! You now understand the Clr.Fund Basics!</h3>
 <p>
-Phew, that was a long series of posts. By now, you have an understanding of quadratic voting, quadratic funding, zk-SNARKs, MACI, and how it all fits together to build clr.fund's funding allocation protocol. I've only touched on each of these topics. They are rabbit holes in and of themselves. There are more attacks that could potentially happen and yet more terminology, but this is the basics of what clr.fund is and why clr.fund is better than current solutions for funding public goods projects in Ethereum. Please read the references below to fall down some great rabbit holes and continue learning. 
+Phew, that was a long couple of posts. By now, you have an understanding of quadratic voting, quadratic funding, zk-SNARKs, MACI, and how it all fits together to build clr.fund's funding allocation protocol. I've only touched on each of these topics. They are rabbit holes in and of themselves. There are more attacks that could potentially happen and yet more terminology, but this is the basics of what clr.fund is and why clr.fund is better than current solutions for funding public goods projects in Ethereum. Please read the references below to fall down some great rabbit holes and continue your learning! 
 </p>
  
 <strong><h4>Further Reading/References*: </h4></strong>
