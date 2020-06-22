@@ -82,7 +82,5 @@ Elliptic-curve_Diffie%E2%80%93Hellman">Wikipedia</a>. Accessed: june 17th, 2020.
  
  
 <p><small>* Not using any particular citation format like MLA, APA, etc. Just doing alphabetical order by title or author name. </small></p>
- 
-----------------------------------------------
 
 
