@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Max',
+  subtitle: 'Engineer.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,11 +25,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Max Goodman',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Engineer.',
     contacts: {
-      email: '',
+      email: 'max@maxgrok.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
