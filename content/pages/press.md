@@ -2,7 +2,7 @@
 template: page
 title: Press
 slug: press
-draft: false
+draft: true
 ---
 <div>
 <h2 class="header">Quotes</h2>
