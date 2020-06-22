@@ -4,7 +4,7 @@ title: "Clr.Fund: Explained Pt. 2"
 slug: clrfund
 draft: false
 date: 2020-06-22T18:32:30.736Z
-description: "This post is part 2 of Clr.Fund: Explained"
+description: "This post dives into how Clr.Fund works as part 2 of Clr.Fund: Explained."
 category: Raid Guild
 tags:
   - Clrfund
