@@ -19,6 +19,26 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
+  {
+    label: 'Code',
+    path: '/pages/code'
+  },
+  {
+    label: 'Talks',
+    path: '/pages/talks'
+  },
+  {
+    label: 'Companies',
+    path: '/pages/companies'
+  },
+  {
+    label: 'Press',
+    path: '/pages/press'
+  },
+  {
+    label: 'Education',
+    path: '/pages/education'
+  },
     {
       label: 'Contact me',
       path: '/pages/contacts'
