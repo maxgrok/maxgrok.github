@@ -34,7 +34,7 @@ module.exports = {
       telegram: '@maxgrok',
       twitter: '@maxxgrok',
       github: '@maxgrok',
-      // rss: '',
+      rss: ''
       // vkontakte: '',
       // linkedin: '#',
       // instagram: '#',
