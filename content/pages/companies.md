@@ -1,8 +1,9 @@
 ---
 template: page
 title: Companies
+socialImage: "/media/image-4.jpg"
 slug: companies
-draft: true
+draft: false
 ---
 <strong>Raid Guild.</strong> <em>April 2020 - Current</em><br />
 <a href="http://www.raidguild.org/">http://www.raidguild.org/</a></p>

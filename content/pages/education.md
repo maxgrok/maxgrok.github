@@ -1,6 +1,7 @@
 ---
 template: page
 title: Education
+socialImage: "/media/image-4.jpg"
 slug: education
 draft: false
 ---

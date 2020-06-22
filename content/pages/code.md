@@ -1,8 +1,9 @@
 ---
 template: page
 title: Code
+socialImage: "/media/image-4.jpg"
 slug: code
-draft: true
+draft: false
 ---
 <h3>Dapps & Smart Contracts</h3>
 

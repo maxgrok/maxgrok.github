@@ -1,8 +1,9 @@
 ---
 template: page
 title: Talks
+socialImage: "/media/image-4.jpg"
 slug: talks
-draft: true
+draft: false
 ---
 <h3 class="header">Future Talks</h3>
 

@@ -1,8 +1,9 @@
 ---
 template: page
 title: Press
+socialImage: "/media/image-4.jpg"
 slug: press
-draft: true
+draft: false
 ---
 <div>
 <h2 class="header">Quotes</h2>
