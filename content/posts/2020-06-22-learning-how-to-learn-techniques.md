@@ -1,9 +1,9 @@
 ---
 template: post
 title: "Learning How to Learn: Techniques"
-slug: learning-how-to-learn
-draft: true
-date: 2020-06-01T12:48:00.000Z
+slug: learn
+draft: false
+date: 2020-06-01T17:26:33.462Z
 description: Need advice on learning to learn efficiently? Here's some
   techniques that may help you.
 category: Learning
