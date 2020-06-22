@@ -2,7 +2,7 @@
 template: page
 title: Education
 slug: education
-draft: true
+draft: false
 ---
 <h3>Most Recent</h3>
 
