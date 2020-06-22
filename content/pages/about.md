@@ -5,7 +5,6 @@ socialImage: /media/image-2.jpg
 slug: about
 draft: false
 ---
-<h1>About Me</h1>
 <p>I'm a lifelong learner. </p>
 
 ## Languages and Tools
