@@ -1,7 +1,6 @@
 ---
 template: page
 title: Companies
-socialImage: "/media/image-4.jpg"
 slug: companies
 draft: false
 ---
