@@ -4,7 +4,7 @@ title: How to Create an Account and Get Test Ether with Geth on the Rinkeby Test
   Network
 slug: one-hundred-and-seventh-post
 draft: false
-date: 2020-11-05T02:00:00.000Z
+date: 2019-11-05T02:00:00.000Z
 description: This is a post about how to create your first account in Geth on
   the Rinkeby testnet and get test Ether.
 category: Ethereum
