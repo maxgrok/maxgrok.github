@@ -12,11 +12,12 @@ tags:
   - Raid Guild
 ---
 <strong>TL:DR;
-Clr.fund uses hack-resistant methods to create a way to allocate funding for public goods projects in the Ethereum ecosystem. It's coming soon.</strong>
+Clr.fund uses attack-resistant methods to create a way to allocate funding for public goods projects in the Ethereum ecosystem. It's coming soon.</strong>
 -----------------------------------------------
 
 <h4>MACI -- Minimal Anti-Collusion Infrastructure </h4><p> In order to understand anti-collusion infrastructure, we must understand collusion. <a href="https://en.wikipedia.org/wiki/Collusion">Collusion</a> = "a secret cooperation or deceitful agreement in order to deceive others". Collusion in clr.fund's case is to coordinate the domination of funding allocation to one project or another. <br/><br/>
-MACI seeks to eliminate basic collusion by following the suggestion in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656">Buterin, Hitzig, and Weyl 2018</a> to "not only [make] votes private, but a voter cannot prove to anyone else who they voted for (or even, ideally, whether or not they voted)even if they wanted to" (Section 5.2 Collusion and deterrence, p.16). However, there is a vulnerability at setup time, as pointed out by <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656">Buterin, Hitzig, and Weyl 2018</a> where a coordinator of the funding campaign itself could be bribed to give the keys to the attackers for decrypting the messages/votes from various members to gain control over funding allocation and collude. Clr.fund works by trusting coordinators not to do this.<br/><br/>
+MACI seeks to eliminate basic collusion by following the suggestion in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656">Buterin, Hitzig, and Weyl 2018</a> to "not only [make] votes private, but a voter cannot prove to anyone else who they voted for (or even, ideally, whether or not they voted) even if they wanted to" (Section 5.2 Collusion and deterrence, p.16). However, there is a vulnerability at setup time, as pointed out by <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656">Buterin, Hitzig, and Weyl 2018</a> where a coordinator of the funding campaign itself could be bribed to give the keys to the attackers for decrypting the messages/votes from various members to gain control over funding allocation and collude. Clr.fund works by trusting coordinators not to do this.<br/><br/>
+
 <strong>How exaclty does the Minimal Anti-Collusion Infrastructure (MACI) work? </strong>
 
 There are two zk-SNARK circuits in MACI: one for the quadratic voting trie and one for the state root transition trie. 
@@ -25,7 +26,7 @@ In Wie's video, he breaks down MACI.
 <p>TO DO: Go through a MACI video walk through. Break down the MACI process. ---> There are two zk-SNARKs circuits used in MACI. One for the state root transition proof and another for the quadratic vote tallying. 
 TO DO: Make a diagram? </p>
 
-The flow of MACI goes like this:
+The flow of MACI goes like this: 
 1. XYZ
 2. ABC
 3. GHI
