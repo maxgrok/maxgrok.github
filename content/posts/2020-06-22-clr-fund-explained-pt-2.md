@@ -1,6 +1,6 @@
 ---
 template: post
-title: "Clr.Fund: Explained Pt. 2"
+title: "Clr.Fund: Explained (Part 2)"
 slug: clrfund
 draft: true
 date: 2020-06-22T21:39:00.000Z
