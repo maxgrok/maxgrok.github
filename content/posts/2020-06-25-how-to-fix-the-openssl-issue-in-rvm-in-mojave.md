@@ -3,7 +3,7 @@ template: post
 title: How to Fix the OpenSSL issue in RVM in Mojave
 slug: ninety-sixth-post
 draft: false
-date: 2020-05-06T18:10:00.000Z
+date: 2018-05-06T18:10:00.000Z
 description: This is a short post about how to fix the OpenSSL issue with
   installing Ruby versions.
 category: RVM
