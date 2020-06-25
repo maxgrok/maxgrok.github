@@ -3,7 +3,7 @@ template: post
 title: How to Send Mail in the Future with Rails
 slug: ninety-seventh-post
 draft: false
-date: 2020-05-20T15:30:00.000Z
+date: 2018-05-20T15:30:00.000Z
 description: This is a post about how to write a new mailer and get it running
   with a Sidekiq worker to send in the future.
 category: Rails
