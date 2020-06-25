@@ -3,7 +3,7 @@ template: post
 title: Crypto Hash Functions, Miners, Nodes, and the Anatomy of a Block
 slug: seventy-sixth-post
 draft: false
-date: 2020-11-29T01:00:00.000Z
+date: 2018-11-29T01:00:00.000Z
 description: This is a post is an introduction to the basics of a block,
   cryptographic hashing, nodes, and mining.
 category: Blockchain
