@@ -3,7 +3,7 @@ template: post
 title: Build Your Own Ethereum Block Display Site
 slug: seventy-eighth-post
 draft: false
-date: 2020-06-25T13:41:23.745Z
+date: 2018-11-30T21:30:00.000Z
 description: This is a post about how to build a ethers.io API empowered site to
   explore the Ethereum blockchain.
 category: "Blockchain "
