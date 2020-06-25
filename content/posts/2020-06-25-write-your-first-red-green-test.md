@@ -3,7 +3,7 @@ template: post
 title: Write Your First Red-Green Test
 slug: eighty-fifth-post
 draft: false
-date: 2020-03-10T17:12:00.000Z
+date: 2018-03-10T18:12:00.000Z
 description: This is a post on writing your first red-green test with Jest and
   Enzyme using a simple create-react-app application.
 category: TDD
