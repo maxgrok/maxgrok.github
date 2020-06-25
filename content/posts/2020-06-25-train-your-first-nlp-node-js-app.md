@@ -3,7 +3,7 @@ template: post
 title: Train Your First NLP Node.JS app
 slug: eighty-nineth-post
 draft: true
-date: 2020-06-25T13:30:00.598Z
+date: 2019-06-25T13:30:00.000Z
 description: This is a post about how to build your very first natural language
   processing application using Wink-ner and Node.js.
 category: NLP
