@@ -3,7 +3,7 @@ template: post
 title: Make Your First Blockchain Trade
 slug: fifty-sixth-post
 draft: true
-date: 2020-06-25T14:08:20.670Z
+date: 2018-07-01T14:08:00.000Z
 description: This is a post about how to make your first blockchain trade using
   Docker, nvm, Node, Yeoman, XCode, IBM Hyperledger Composer, and more.
 category: Flatiron School
