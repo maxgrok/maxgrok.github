@@ -3,7 +3,7 @@ template: post
 title: Clr.Fund:Explained (Part 3)
 slug: clrfundexplainedpartthree
 draft: true
-date: 2020-06-29T14:08:01.482Z
+date: 2020-06-29T17:32:48.733Z
 description: "This is a post about how MACI fits into Clr.Fund's MVP and how
   Clr.Fund works. "
 category: Raid Guild
@@ -123,3 +123,8 @@ MACI is in charge of the signing up of users/voters for a funding round, voting,
 ## Coordinator
 The Coordinator is in charge of providing their public key to the Owner for registration in the funding round as a Coordinator. They provide the vote tally after processing the messages/votes and tally the votes after the voting deadline has passed. They provide the Recipient with the voting tally. 
 
+## How does one setup a funding round? 
+
+## How do people contribute and sign up? 
+
+## How do the votes get processed and tallied? 
