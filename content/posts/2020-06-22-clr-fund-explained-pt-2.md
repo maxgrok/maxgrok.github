@@ -4,7 +4,7 @@ title: "Clr.Fund: Explained (Part 2)"
 slug: clrfund
 draft: false
 date: 2020-06-22T21:39:00.000Z
-description: "This post dives into how Clr.Fund works as part 2 of Clr.Fund: Explained."
+description: "This post dives into how MACI works as part 2 of Clr.Fund: Explained."
 category: Raid Guild
 tags:
   - Clrfund
