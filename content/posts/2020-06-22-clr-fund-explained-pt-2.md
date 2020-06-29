@@ -39,8 +39,8 @@ Adapted from: <a href="https://www.youtube.com/watch?v=sKuNj_IQVYI">Minimum Anti
 This scenario above eliminates the ability of Alice to prove she voted for Party B because her vote is encrypted and can only be decrypted by the coordinator.
  
 Here is how MACI flow works: 
-<a href="https://imgur.com/gXGrny9.jpg">
-![MACI Flow Diagram](https://imgur.com/gXGrny9.jpg)</a>
+<a href="https://imgur.com/A75Osyx">
+![MACI Flow Diagram](https://imgur.com/A75Osyx.jpg)</a>
  ^<em>(Click on the above to zoom into image)</em>
 
 The creator of the instance of the MACI contract instantiates MACI with the ```coordinators/signUpGatekeeper’s address```, along with the other parameters required by MACI to setup the voting scenario <em>(see diagram above)</em>. After this, the users can use ```signup()``` to sign up for voting so long as it is before the deadline for signing up as a voter. After signing up, users can then publish messages/votes before the voting deadline for the voting round. After all the votes are completed from all users, then the coordinator batch processes the messages. Through a CLI, the coordinator tallies the votes, then verifies the results on-chain using ```verifyTallyResult()```.
