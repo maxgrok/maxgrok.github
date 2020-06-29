@@ -3,7 +3,7 @@ template: post
 title: Clr.Fund:Explained (Part 3)
 slug: clrfundexplainedpartthree
 draft: true
-date: 2020-06-29T14:08:01.482Z
+date: 2020-06-29T17:32:48.733Z
 description: "This is a post about how MACI fits into Clr.Fund's MVP and how
   Clr.Fund works. "
 category: Raid Guild
@@ -108,12 +108,24 @@ The Recipient(s) are the ones who receive the funding once the voting is done. A
 The Factory is the generic vehicle through which a funding round is started. It is used to deploy new rounds of funding, deploy MACI, set MACI, call transfer the matching funds, transfer the matching funds and finalize the round, as well as potentially cancel the round. 
 
 ## MACIFactory
-
+MACIFactory is a vehicle for creating replicable instances of MACI to be used for the funding round that is created. It is instructed on Owner's calling of the ```deployMaci()``` function in the Factory to the MACIFactory to create a new MACI instance. After this instance is created, the Factory contract calls ```setMaci()```. The MACIFactory is deployed first by the Owner before any other actions are taken. 
 
 ## Contributor
+After calling ```setMaci()```, the Contributor donates to the regular pool for the funding round by calling ```contribute()``` function on the FundingRound contract. After the contribution is made, the FundingRound creates the sign up deadline for other contributions to be made. A contributor votes /creates a message by calling ```publishMessage()```. Voting proceeds until the voting deadline. 
 
 ## FundingRound
+The FundingRound contract is used to set MACI parameters, for contributors to donate to the pool of funding (not the matching pool), to sign up users,transfer matching fund and finalize the round, as well as submit the vote tally and a proof (```claimFunds()```), and tells MACI to verify the proof given by ```claimFunds()```, then transfers the funds to the Recipient. 
 
 ## MACI
+MACI is in charge of the signing up of users/voters for a funding round, voting, processing messages/votes, tallying votes, and verifying the proof that is created by ```claimFunds()``` in FundingRound. 
 
 ## Coordinator
+The Coordinator is in charge of providing their public key to the Owner for registration in the funding round as a Coordinator. They provide the vote tally after processing the messages/votes and tally the votes after the voting deadline has passed. They provide the Recipient with the voting tally. 
+
+## How does one setup a funding round? 
+
+## How do people contribute and sign up? 
+
+## How do the votes get processed and tallied? 
+
+ 
