@@ -55,7 +55,7 @@ As you can see, the smart contract is instantiated with a state tree root and a 
 
 ![zk-SNARKs and MACI](https://imgur.com/dsprNZK.jpg)
 
-<p>As we learned in the first post, MACI uses zk-SNARKs. How? By using circuits for the state root transition tree and the quadratic voting tree. They prevent the trusted coordinator from incorrectly processing the votes or incorrectly tallying the votes, as well as provide vote secrecy until the end of the voting period. Votes are encrypted, but can be unencrypted in the zk-SNARK circuit <a href=”https://www.youtube.com/watch?v=sKuNj_IQVYI”>Koh Wei Jie, 2020</a>.  </p>
+<p>As we learned in the first post, MACI uses zk-SNARKs. How? By using circuits for the state root transition tree and the quadratic voting tree. They prevent the trusted coordinator from incorrectly processing the votes or incorrectly tallying the votes, as well as provide vote secrecy until the end of the voting period. Votes are encrypted, but can be unencrypted in the zk-SNARK circuit (<a href=”https://www.youtube.com/watch?v=sKuNj_IQVYI”>Koh Wei Jie, 2020</a>).  </p>
 
 <h3>Vulnerabilities with MACI</h3>
  
