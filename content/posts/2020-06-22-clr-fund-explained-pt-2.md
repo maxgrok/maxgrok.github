@@ -14,13 +14,13 @@ tags:
 <em> Special thanks to Kirill Goncharov, Koh Wei Jie, and Auryn MacMillan for reviewing this post</em>
 
 <strong>TL:DR;
-MACI prevents basic collusion by making the voting encrypted and cannot be decrypted by anyone except the coordinator at the end of the voting period. <br/><br/>In part three of Clr.Fund:Explained, we will go over how MACI fits into the Clr.Fund MVP flow.</strong>
+MACI prevents basic collusion by making the voting encrypted and not able to be decrypted by anyone except the coordinator (at the end of the voting period). <br/><br/>In part three of Clr.Fund:Explained, we will go over how MACI fits into the Clr.Fund MVP flow.</strong>
 -----------------------------------------------
 In this post, we will go over how Minimum Anti-Collusion Infrastructure (MACI) works. What is MACI? 
  
-<h4>Minimal Anti-Collusion Infrastructure (MACI) </h4><p> In order to understand MACI, we must understand collusion. <a href="https://en.wikipedia.org/wiki/Collusion">Collusion</a> is "a secret cooperation or deceitful agreement in order to deceive others". The case for basic collusion that MACI takes on is bribery for voting purposes. MACI tackles collusion by making it impossible (read, very costly and not scalable) to know how someone else voted. In clr.fund’s case, that means it is impossible for a briber to verify a bribee’s actions.
+<h4>Minimal Anti-Collusion Infrastructure (MACI) </h4><p> In order to understand MACI, we must understand collusion. <a href="https://en.wikipedia.org/wiki/Collusion">Collusion</a> is "a secret cooperation or deceitful agreement in order to deceive others". The case for basic collusion that MACI takes on is bribery for voting purposes. MACI tackles collusion by making it impossible (read, very costly and not scalable) to know how someone else voted. In clr.fund’s case, that means it is impossible for a briber to verify a bribee’s actions.<br/><br/>
  
-<strong>How does MACI prevent collusion? Let’s find out!</strong> <br/><br/>
+<strong>How does MACI prevent this basic collusion? Let’s find out!</strong> <br/><br/>
  
 Here’s how a simple bribing attack might occur: 
 
@@ -62,7 +62,7 @@ As you can see, the smart contract is instantiated with a state tree root and a 
 <p>There is a vulnerability at setup time, as pointed out by <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656">Buterin, Hitzig, and Weyl 2018</a> and 
 <a href=”https://www.youtube.com/watch?v=sKuNj_IQVYI”>Koh Wei Jie 2020</a> where a coordinator of the voting itself could be bribed to give the keys to the attackers for decrypting the messages/votes from various members to gain control over voting. </p>
  
-<h3>How can the coordinator mess up the election though?</h3>
+<h3>How can the coordinator mess up the voting though?</h3>
 
 ![Trusted Coordinator](https://imgur.com/mPiEyx5.jpg)
  
