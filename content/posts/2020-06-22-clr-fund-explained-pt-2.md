@@ -14,7 +14,7 @@ tags:
 <em> Special thanks to Kirill Goncharov, Koh Wei Jie, and Auryn MacMillan for reviewing this post</em>
 
 <strong>TL:DR;
-MACI prevents basic collusion by making the voting encrypted and not able to be decrypted by anyone except the coordinator (at the end of the voting period). <br/><br/>In part three of Clr.Fund:Explained, we will go over how MACI fits into the Clr.Fund MVP flow.</strong>
+MACI prevents basic collusion by making encrypting votes  so they are only known to the voter and a trusted coordinator, who tallies votes. <br/><br/>In part three of Clr.Fund:Explained, we will go over how MACI fits into the Clr.Fund MVP flow.</strong>
 -----------------------------------------------
 In this post, we will go over how Minimum Anti-Collusion Infrastructure (MACI) works. What is MACI? 
  
