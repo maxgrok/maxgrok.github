@@ -12,11 +12,15 @@ tags:
   - Clr.Fund
   - Ethereum
 ---
-<em>This post is Part 3 of a series entitled "clr.fund:Explained".</em><br/><br/>
 <em>Special thanks to Auryn MacMillan and Kirill Goncharov for reviewing this post. </em><br/>
+<em>This post is Part 3 of a series entitled "clr.fund:Explained".</em><br/>
 
-<em>Disclaimer: This is a living process. For more up to date proof of concept information, please see the <a href="https://github.com/clrfund/monorepo/blob/3225adf672d0bffcce19160d8b65fca1f45cc42e/docs/clrfund.mmd">sequence diagram</a>.</em><br/>
+<em>Please see <a href="http://www.maxgrok.com/posts/raidguild">Part 1</a> and <a href="http://www.maxgrok/com/posts/clrfund">Part 2</a> for pre-requisite knowledge.</em>
 
+<strong>Disclaimer</strong>: This is a living process. For more up to date proof of concept information, please see the <a href="https://github.com/clrfund/monorepo/blob/3225adf672d0bffcce19160d8b65fca1f45cc42e/docs/clrfund.mmd">sequence diagram</a>.<br/>
+<hr/>
+
+# Introduction 
 <p>In this post, I will explain how MACI fits into clr.fund's flow and what clr.fund's flow is. Let's get familiar with the key ingredients to our clr.fund's flow. According to our sequence diagram (see link or end of post), we have an Owner, Pool Contributor, Recipient, Funding Round Factory, MACI Factory, Contributor, Funding Round, MACI, and a Coordinator.</p>
 <hr/>
 
