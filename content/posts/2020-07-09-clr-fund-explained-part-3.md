@@ -3,7 +3,7 @@ template: post
 title: Clr.Fund:Explained (Part 3)
 slug: clrfundexplainedptthree
 draft: false
-date: 2020-07-09T15:30:00.000Z
+date: 2020-07-09T11:39:00.000Z
 description: "This is a post about how MACI fits into Clr.Fund's MVP and how
   Clr.Fund works. "
 category: Raid Guild
@@ -16,28 +16,6 @@ tags:
 <em>This post is Part 3 of a series entitled "clr.fund:Explained".</em><br/>
 
 <em>Please see <a href="http://www.maxgrok.com/posts/raidguild">Part 1</a> and <a href="http://www.maxgrok/com/posts/clrfund">Part 2</a> for pre-requisite knowledge.</em>
-
-<strong>Disclaimer</strong>: This is a living process. For more up to date proof of concept information, please see the <a href="https://github.com/clrfund/monorepo/blob/3225adf672d0bffcce19160d8b65fca1f45cc42e/docs/clrfund.mmd">sequence diagram</a>.<br/>
-<hr/>
----
-template: post
-title: Clr.Fund:Explained (Part 3)
-slug: clrfundexplainedpartthree
-draft: false
-date: 2020-07-09T10:54:48.733Z
-description: "This is a post about how MACI fits into Clr.Fund's MVP and how
-  Clr.Fund works. "
-category: Raid Guild
-tags:
-  - Solidity
-  - Clr.Fund
-  - Ethereum
----
-<em>Special thanks to Auryn MacMillan and Kirill Goncharov for reviewing this post. </em><br/>
-<em>This post is Part 3 of a series entitled "clr.fund:Explained".</em><br/>
-
-
-<em>Please see <a href="https://clr.fund/clr-fund-explained-pt-1/">Part 1</a> and <a href="https://clr.fund/clr-fund-explained-pt-2/">Part 2</a> for pre-requisite knowledge.</em>
 
 <strong>Disclaimer</strong>: This is a living process. For more up to date proof of concept information, please see the <a href="https://github.com/clrfund/monorepo/blob/3225adf672d0bffcce19160d8b65fca1f45cc42e/docs/clrfund.mmd">sequence diagram</a>.<br/>
 <hr/>
