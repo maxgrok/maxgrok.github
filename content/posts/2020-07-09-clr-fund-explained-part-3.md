@@ -110,7 +110,7 @@ Elliptic-curve_Diffie%E2%80%93Hellman">Wikipedia</a>. Accessed: june 17th, 2020.
 <small><strong>Wei Jie Koh.</strong> "Minimum Anti-Collusion Infrastructure". <a href="https://www.youtube.com/watch?v=sKuNj_IQVYI">YouTube</a>. May 2020.</small><br/></p>
 
 ### Here is a technical sequence diagram of how clr.fund works:
-<a href="https://raw.githubusercontent.com/clrfund/monorepo/master/docs/clrfund.svg">![SequenceDiagram](https://raw.githubusercontent.com/clrfund/monorepo/master/docs/clrfund.svg) </a>  
+<a href="https://raw.githubusercontent.com/clrfund/monorepo/master/docs/clrfund.svg">SequenceDiagram</a>  
 
 ### Here is clr.fund's code repo:
 <a href="https://github.com/clrfund/monorepo/blob/master/docs/clrfund.mmd">clr.fund</a>
