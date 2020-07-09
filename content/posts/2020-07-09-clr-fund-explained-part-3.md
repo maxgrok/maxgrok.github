@@ -26,26 +26,35 @@ tags:
 
 # Defining the Contracts
 Each contract is integral to clr.fund. The main contracts are as follows:
+
 ## Funding Round Factory
 The Funding Round Factory is the generic vehicle through which a funding round is started. It is used to register recipients, collect matching funds, deploy new rounds of funding, deploy MACI, transfer the matching funds, finalize the round (preventing additional funding), as well as potentially cancel the round.
+
 ## MACI Factory
 MACI Factory is a vehicle for creating replicable instances of MACI to be used for the funding round that is created. When Owner calls the ```deployMaci()``` function in the `FundingRoundFactory`, it creates a new MACI instance. After this instance is created, the `FundingRoundFactory` contract calls ```setMaci()```. The `MACIFactory` is deployed first by the Owner before any other actions are taken.
+
 ## Funding Round
 The `FundingRound` contract is used for contributors to donate to the pool of funding (not the matching pool), to sign up users for voting, and finalize the round, as well as submit the vote tally and a proof (```claimFunds()```), and tells MACI to verify the proof given by ```claimFunds()```, then transfers the funds to the Recipient.
+
 ## MACI
 MACI is in charge of the signing up of users/voters for a funding round, voting, processing messages/votes, tallying votes, and verifying the proof that is created by ```claimFunds()``` in `FundingRound`.
 <hr/>
 
 # Defining the Key Roles
 Each role is represented by a separate public key and does different actions. Here's an overview:
+
 ## The Owner
 Initially, the Owner is the instantiator of clr.fund. The Owner deploys the MACI factory, deploys the Funding Round Factory, transfers ownership to Funding Round Factory, sets the MACI parameters (if necessary), and is to whom the Coordinator provides their public key. Once the Owner has the public key of the Coordinator, then they set the coordinator. The Owner can also set a new address as the Owner.
+
 ## Pool Contributor
 The Pool Contributor is someone, or something (app, protocol, etc), who donates to the matching pool of funding for allocation after voting takes place.. 
+
 ## Recipient
 The Recipient(s) are the ones who receive the funding once the voting is done. Adding a recipient can only be done by the Owner by calling ```addRecipient()``` on the `FundingRoundFactory`.
+
 ## Coordinator
 The Coordinator is in charge of providing their public key to the Owner for registration in the funding round as a Coordinator. They process the messages (votes) after the voting deadline has passed, tally the votes and prove the correctness of it and publish the results of vote tally after processing the messages/votes. They provide the Recipient with the voting tally and a proofs which can be used by the Recipient to claim their share of the funds each round.
+
 ## Contributor
 After the Owner deploys the `FundingRound` and calls ```setMaci()```, the Contributor donates to the regular pool for the funding round by calling ```contribute()``` function on the `FundingRound` contract. After the contribution is made and the voting period has started, contributors create a message to vote and call  by calling ```publishMessage()```. Voting proceeds until the voting deadline.
 <hr/>
@@ -57,13 +66,19 @@ Now that we know all the roles and contracts that get called, let's visualize th
 First, the Owner does 4 things: deploys the `MACIFactory` and `FundingRoundFactory` contracts. Second, they transfer ownership of the `FundingRoundFactory` contract to the `MACIFactory`. Lastly, if necessary, they set the MACI parameters, which include, among others, the ```signUpDuration``` and ```votingDuration``` . For more information on MACI parameters, see the <a href="https://github.com/clrfund/monorepo/blob/master/contracts/contracts/MACIFactory.sol">clr.fund MACIFactory contract</a>.
 
 ![Step 5-6](https://imgur.com/SelKv3c.jpg)
+
 After clr.fund's basic setup, the Recipients ask the Owner to be added to the registration for projects eligible for receiving funds from clr.fund after a funding round has been finalized. This happens on a loop with as many projects as there are that get vetted and participate in the funding round.
+
 ![Step 7-11](https://imgur.com/qZWoR3M.jpg)
-After adding all the Recipients, the Owner deploys a new funding round by calling ```deployNewRound()``` on ```FundingRoundFactory```. This creates a new funding round for users to come and contribute funds to the funding pool for different projects. When the Owner calls ```deployMaci()``` on ```FundingRoundFactory``` contract, the ```FundingRoundFactory``` contract calls ```deployMaci()``` on ```MACIFactory```, which creates a new instance of MACI for the funding round's use. ```FundingRoundFactory``` calls ```setMaci()``` on the ```FundingRound``` contract to link the MACI instance to the funding round. This completes the setup of the funding round. Now, we need to enroll the Contributors in the funding round before the ```signUpDuration``` is over.
+
+<p>After adding all the Recipients, the Owner deploys a new funding round by calling ```deployNewRound()``` on ```FundingRoundFactory```. This creates a new funding round for users to come and contribute funds to the funding pool for different projects. When the Owner calls ```deployMaci()``` on ```FundingRoundFactory``` contract, the ```FundingRoundFactory``` contract calls ```deployMaci()``` on ```MACIFactory```, which creates a new instance of MACI for the funding round's use. ```FundingRoundFactory``` calls ```setMaci()``` on the ```FundingRound``` contract to link the MACI instance to the funding round. This completes the setup of the funding round. Now, we need to enroll the Contributors in the funding round before the ```signUpDuration``` is over.</p>
+
 ![Step 12-15](https://imgur.com/ISqyrpa.jpg)
-In the proof of concept, only vetted Contributors are registered. The Contributors are vetted by clr.fund's team. In later rounds, this curation process will be more permissionless. The Contributor can then donate to the funding pool for projects, at that moment, they  ```signUp()``` to vote/send a message (an encrypted command). The Contributor creates a message and calls ```publishMessage()```. This process happens with each Contributor until all Contributors are signed up and have published a message/voted. Once all the voting happens, then we hit the voting deadline.
+<p>In the proof of concept, only vetted Contributors are registered. The Contributors are vetted by clr.fund's team. In later rounds, this curation process will be more permissionless. The Contributor can then donate to the funding pool for projects, at that moment, they  ```signUp()``` to vote/send a message (an encrypted command). The Contributor creates a message and calls ```publishMessage()```. This process happens with each Contributor until all Contributors are signed up and have published a message/voted. Once all the voting happens, then we hit the voting deadline.</p>
+
 ![Step 17-21](https://imgur.com/FGGwlfN.jpg)
-Once the voting deadline has passed, the Coordinator can process and tally the votes, as well as provide the vote tally to the Recipient. The Owner proceeds to call ```transferMatchingFunds()``` on the ```FundingRoundFactory``` contract, which then transfers funds and finalizes the round of funding. The Recipient submits the vote tally and a proof via the ```claimFunds()``` function on the ```FundingRound``` contract. The ```FundingRound``` contract passes the proof that the Recipient sent to MACI for verification. Once verified, the ```FundingRound``` contract transfers the funds to the Recipient. This completes the funding round.
+
+<p>Once the voting deadline has passed, the Coordinator can process and tally the votes, as well as provide the vote tally to the Recipient. The Owner proceeds to call ```transferMatchingFunds()``` on the ```FundingRoundFactory``` contract, which then transfers funds and finalizes the round of funding. The Recipient submits the vote tally and a proof via the ```claimFunds()``` function on the ```FundingRound``` contract. The ```FundingRound``` contract passes the proof that the Recipient sent to MACI for verification. Once verified, the ```FundingRound``` contract transfers the funds to the Recipient. This completes the funding round.</p>
 
 ## Conclusion
 MACI fits into clr.fund’s flow by providing the minimum architecture needed to prevent collusion; mainly, it provides a way for voters to hide their votes via encryption to prevent impact of bribery. By now, we know how all the different parts fits together in the 21 step process to complete a funding round. We know that there is an Owner who instantiates the entire process as well as registering vetted Contributors, a Coordinator who is in charge of processing and tallying the votes, Recipients who receive funding, PoolContributors who contribute to the matching pool for funding allocation, and Contributors who provide funds and votes for different Recipients/projects. This whole process is the entire process behind clr.fund's proof of concept. I hope you enjoyed learning this as much as I did!
