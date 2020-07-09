@@ -1,7 +1,7 @@
 ---
 template: post
 title: Clr.Fund:Explained (Part 3)
-slug: clrfundexplainedpartthree
+slug: clrfundexplainedptthree
 draft: false
 date: 2020-07-09T10:54:48.733Z
 description: "This is a post about how MACI fits into Clr.Fund's MVP and how
