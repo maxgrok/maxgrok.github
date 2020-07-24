@@ -3,7 +3,7 @@ template: post
 title: "Personal Token: $MAX"
 slug: max-launch
 draft: true
-date: 2020-07-24T08:54:47.567Z
+date: 2020-07-29T08:54:47.567Z
 description: "Are you interested in personal tokens? Here's how I set mine up
   and a Uniswap liquidity pool. "
 category: $MAX
