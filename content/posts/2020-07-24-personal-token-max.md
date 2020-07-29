@@ -32,7 +32,7 @@ I also was gifted, by a $MAX whale, a Uniswap liquidity pool of ETH-$MAX. So, it
 
 ## Conclusion 
 
-There are a plethora of opportunities available to folks with personal tokens and their use cases are many. This post was meant to introduce you to tools and let you know how I did my personal token launch. It's been very fruitful so far. <br/><br/>
+There are a plethora of opportunities available to folks with personal tokens and their use cases are many. This post was meant to introduce you to tools and let you know how I did my personal token launch. It's been very fruitful so far.
 
 Did you launch your own personal token? DM me on twitter with how it's gone for you. I'm curious. 
 
@@ -41,4 +41,3 @@ Did you launch your own personal token? DM me on twitter with how it's gone for 
 If you want to trade personal tokens, then DM me. I'm open to offers. 
 If you want to buy $MAX, here's the [link](https://uniswap.info/pair/0xdb41e3283D0b82476D475B8a2a3f1a0C3D82cA5E). <br/>
 (250 $MAX = 15 minutes of time, 500 $MAX = 30 min, etc.)
-
