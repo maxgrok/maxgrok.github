@@ -24,7 +24,8 @@ const Layout = ({
   const metaImage = socialImage != null ? socialImage : author.photo;
   const metaImageUrl = url + withPrefix(metaImage);
   const urlCalendly = "https://www.calendly.com/maxgoodman/";
-  
+  /** <PopupWidget url={urlCalendly}/> **/ 
+
   return (
     <div className={styles.layout}>
       <Helmet>
@@ -39,7 +40,6 @@ const Layout = ({
         <meta name="twitter:image" content={metaImageUrl} />
       </Helmet>
       {children}
-      <PopupWidget url={urlCalendly}/>
     </div>
   );
 };
