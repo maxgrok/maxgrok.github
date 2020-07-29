@@ -27,7 +27,7 @@ I did an experimental giveaway of 15 min worth of $MAX to about 6 people. It was
 
 As an experiment for Delance, I also setup a microsponsors auction to see if there was enough demand for $MAX to have an auction for my time and have it work. Unfortunately, there are some notification issues with knowing when folks bid with microsponsors, so I didn't know that I needed to approve a bid from a $MAX whale, but I sold him $MAX at his bid price. This is proof of concept for Delance, except in Delance we'll use NFTs instead of personal tokens (for now). 
 
-I also was gifted, by a $MAX whale, a Uniswap liquidity pool of ETH-$MAX. So, it is possible to trade $MAX, since it is an ERC20 token, for ETH and back. The link to the Uniswap pool is <a href="https://uniswap.info/pair/0xdb41e3283D0b82476D475B8a2a3f1a0C3D82cA5E">here</a>, if you'd like some $MAX.
+I also was gifted, by a $MAX whale, a Uniswap liquidity pool of ETH-$MAX. So, it is possible to trade $MAX, since it is an ERC20 token, for ETH and back. The link to the Uniswap pool is [here](https://uniswap.info/pair/0xdb41e3283D0b82476D475B8a2a3f1a0C3D82cA5E), if you'd like some $MAX.
 
 
 ## Conclusion 
@@ -39,6 +39,6 @@ Did you launch your own personal token? DM me on twitter with how it's gone for 
 ### Shilling 
 
 If you want to trade personal tokens, then DM me. I'm open to offers. 
-If you want to buy $MAX, here's the <a href="https://uniswap.info/pair/0xdb41e3283D0b82476D475B8a2a3f1a0C3D82cA5E">link</a>. <br/>
+If you want to buy $MAX, here's the [link](https://uniswap.info/pair/0xdb41e3283D0b82476D475B8a2a3f1a0C3D82cA5E). <br/>
 (250 $MAX = 15 minutes of time, 500 $MAX = 30 min, etc.)
 
