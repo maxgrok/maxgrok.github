@@ -12,3 +12,5 @@ tags:
   - Ethereum
 ---
 This is a post on Week 3. 
+
+Talk about mapz.guide and introduce prototype. Let Sachin know and how to accept failure gracefully. 

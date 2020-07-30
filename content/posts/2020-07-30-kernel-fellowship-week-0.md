@@ -13,3 +13,5 @@ tags:
   - Prototype
 ---
 This is a post on the Week 0 of KERNEL.  
+
+Worked on getting to know folks and recruited a team. 

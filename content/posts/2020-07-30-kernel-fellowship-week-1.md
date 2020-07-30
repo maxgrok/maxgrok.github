@@ -13,3 +13,5 @@ tags:
   - Delance
 ---
 This is a post about the week 1 in KERNEL.  
+
+Insert Week 1 Update here. 

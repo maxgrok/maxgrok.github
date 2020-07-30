@@ -13,3 +13,5 @@ tags:
   - KERNEL
 ---
 This is the post on Week 2. 
+
+Insert Week 2 update here. Along with explaination about not continuing Delance and introduction to mapz.guide. 
