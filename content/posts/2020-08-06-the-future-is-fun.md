@@ -3,7 +3,7 @@ template: post
 title: The Future is Fun
 slug: future-is-fun
 draft: false
-date: 2020-08-10T10:47:47.348Z
+date: 2020-08-13T11:21:47.348Z
 description: "Gaming mechanics are integral to modern web applications. In this
   post, I go over some basics of game design as introduced by Gabe Zichermann,
   author of Game-based Marketing, and much more. "
