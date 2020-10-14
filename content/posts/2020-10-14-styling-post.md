@@ -1,28 +1,30 @@
 ---
 template: post
-title: Underline Styling Animation
-slug: underline-styling
+title: The Future of Corporations is Cooperative
+slug: future-is-cooperative
 draft: true
 date: 2020-10-14T08:21:47.348Z
-description: ""
-category: SCSS
+description: "The future of corporations is democratic and decentralized in nature..."
+category: Future
 tags:
-  - SCSS
-  - Sass
-  - Styling
+  - ETH
+  - Future
+  - Cooperatives
 ---
-Brainstorm: 
 
-This is a quick post about how to style an underline animation in SCSS.
+When many people in my field think of corporations, they think of measly, slimy biz people who are greedy and hoard resources for their own gains/profitabiliy, but I wager that the future of corporations is democratic and decentralized in nature. Rather than a few people owning and governing them, there will be a community owning and governing them in a decentralized, holistic fashion. Rather than being owned and operated by a few elites, they will be producing value distributed across many, many different stakeholders in a variety of communities.
 
-Write about Mapz? Write about prototyping?
-Write about ... what? Tragedy of the Commons. Elinor Ostrom. What's mine is yours, Rachel Botsman. 
+The ability of us to contribute to the governance, strategy, and vision of our favorite missions/corporations/interests will change the way we take responsibility over our world, our community, and the way we participate in it. We will be able to see ourselves as participants and stakeholders in their bright futures, rather than clients, consumers, and end users. We can trace how we influence our world, our community, and our impact. We will be able to be included in an equitable, just manner in the value that gets created, especially if we played a part in it's creation. Several crypto startups like Ujo sought to do this for artists and innovate their intellectual property to have artists claim a larger share of the profits they make from their art than is traditionally accepted in the US industry. However, some of these crypto companies are normal C-Corps, out for and only accountable to their own interests just like web 2.0 startups.
 
-Write about opinionated startup tips?
+With the evolution of different legal vehicles in the past 10 years such as B corps and L3Cs, it is possible to envision a world where corporations act as ethical, conscientious persons. However, these vehicles only go so far. The ownership is still congealed at the top of a hierarchy in most cases, rather than distributed among the community of users (in tech startups atleast). Also, there is a price to pay to engage in this standard: B Corporation certification has a set of exclusively licensed standards that must be audited every 2 years in order to maintain compliance, which is not open-sourced. It costs a hefty enough amount of money to dissuade any bootstrapped startup from considering it (or atleast it did last I checked).
 
-Who's your audience? 
-Other profesh people in crypto?
+There are a few perils of this approach though. It breeds consensus issues. Occupy Wall Street had a series of hand symbols to convey consensus on issues. Many brick and mortar cooperatives such as Red Emma's use a variety of digital tools for communications in order to reach agreements across their team. In crypto, Consensys itself used to operate in spokes, rather than hierarchies. Though it has since changed it's structure, it was very well one of the early experiments of flat organizations at scale. The spokes would be fluid teams of people who are able to govern and vote on different policies and processes for the betterment of that particular project. This is atleast as I understand it. I had a friend who worked for Consensys who explained it to me a couple of years ago and I was super excited about it and still am today. The idea of ownership can be fractionalized and made accessible to everyone who wishes to have a say in their favorite brand through social media, their favorite corporation (if you have one) is no different. 
+However, the newer vehicle of decentralized autonomous organizations (otherwise known as DAOs) breed the kind of flat hierarchy of do-cracy that I personally crave, but they struggle with the same consensus issues that cooperatives normally do: coordination costs, engagement in voting, and dispute resolution. To provide a solution to the dispute resolution, lexDAO is currently working on a dispute resolution guide for DAOs. However, with all the tech involved in DAOs, it is easy to forget the human element must change and adapt as well and this takes longer than deploying an app to Heroku or AWS. It takes heart.
 
-Write about KERNEL? Go over KERNEL exercises. See if you can write about something from them. And a thank you post for being included in it. Write a series of posts on KERNEL?
+Investing in the community of people who have a valid stake in your success is crucial. Crypto provides new ways to do this. With the advent of reverse IPOs, companies, such as Uniswap's $UNI airdrop, can now reward early users on their platform with a native token and invite them to participate in governance. I believe these are the first steps in distributing accessible means to own a wide variety of productions of value in society.
 
-Deep dive into exp with DAOs so far, token engineering? Budget: 4 hours to spend on this.
+While these are nice, there is a further step, which includes accessibility and usability of these infrastructures for the average user. In crypto, this is a widespread problem that many are tackling. It is worth it just to notice that there is currently a gap between what is available and usable versus what is accessible to the average human with medium internet skills. Downloading Metamask, obtaining ETH, these take time, resources (read: money), and skills. They may be barriers to the general population to be engaged, cutting them off from this decentralized phenomenon, preventing their engagement in DeFi, better financial opportunities, and eventually even career options.
+
+In conclusion, I'm excited about the future of corporations because of the promise of distributed governance, ownership, and general decentalization that is spearheaded, technologically, by crypto. Traditional challenges of flat organizations do not escape crypto tech startups aiming to distribute governance and ownership and reach consensus. There are solutions in the works. lexDAO is building a dispute resolution guide to be forthcoming and potentially widely adopted.
+
+In the future, a corporation may very well be just a mesh network of interested parties with values aligned seeking to do good and do well, pursuing the triple bottom-line!
