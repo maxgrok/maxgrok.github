@@ -7,8 +7,9 @@ date: 2020-08-13T11:21:47.348Z
 description: "Gaming mechanics are integral to modern web applications. In this
   post, I go over some basics of game design as introduced by Gabe Zichermann,
   author of Game-based Marketing, and much more. "
-category: Gamification
+category: Future
 tags:
+  - Future
   - Gamification
   - Ethereum
   - Public Goods
