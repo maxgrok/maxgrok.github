@@ -2,9 +2,9 @@
 template: post
 title: The Future of Corporations is Cooperative
 slug: future-is-cooperative
-draft: true
-date: 2020-10-14T08:21:47.348Z
-description: "The future of corporations is democratic and decentralized in nature..."
+draft: false
+date: 2020-10-15T05:26:47.348Z
+description: "The future of corporations democratic and decentralized in nature: community-owned and governed."
 category: Future
 tags:
   - ETH
@@ -12,13 +12,11 @@ tags:
   - Cooperatives
 ---
 
-Brief thoughts on the future of corporations:
+When many people think of corporations, they think of slime-y biz people who are greedy and hoard resources for their own gains/profitabiliy, but the future of corporations is it's opposite. The future of corporations is actually democratic and decentralized in nature: community-owned and governed. Rather than a few people owning and governing them, there will be a community owning and governing them in a democratic fashion. Rather than being owned and operated by a few elites, they will be producing value distributed across many, many different stakeholders in a variety of communities.
 
-When many people think of corporations, they think of measly, slimy biz people who are greedy and hoard resources for their own gains/profitabiliy, but I wager that the future of corporations is it's opposite and actually democratic and decentralized in nature: community-owned. Rather than a few people owning and governing them, there will be a community owning and governing them in a democratic fashion. Rather than being owned and operated by a few elites, they will be producing value distributed across many, many different stakeholders in a variety of communities.
+The ability of us to contribute to the governance, strategy, and vision of our favorite missions/interests in the form of corporations will change the way we take responsibility over our world, our community, and the way we participate in it. We will be able to see ourselves as participants and stakeholders in their bright futures, rather than clients, consumers, and end users. We can have a more equitable <em>relationship</em> with these entities, rather than be solely recipients of their products. We can - through these corporation communities - trace how we influence our world, our community, and our impact. We will be able to be included in an equitable, just manner in the value that gets created, especially if we played a part in it's creation.
 
-The ability of us to contribute to the governance, strategy, and vision of our favorite missions/corporations/interests will change the way we take responsibility over our world, our community, and the way we participate in it. We will be able to see ourselves as participants and stakeholders in their bright futures, rather than clients, consumers, and end users. We can trace how we influence our world, our community, and our impact. We will be able to be included in an equitable, just manner in the value that gets created, especially if we played a part in it's creation.
-
-Several crypto startups like Ujo sought to do this for artists and innovate their intellectual property to have artists claim a larger share of the profits they make from their art than is traditionally accepted in the US industry. However, some of these crypto companies are normal C-Corps, out for and only accountable to their own interests just like web 2.0 startups. We need full-stack distribution and decentralization (not just technological decentralization).
+Several crypto NFT-oriented startups like Ujo sought to do this for artists and innovate their intellectual property to have artists claim a larger share of the profits they make from their art than is traditionally accepted in the US industry. However, some of these crypto companies are normal C-Corps, out for and only accountable to their own interests, just like more traditional web 2.0 startups. We need full-stack distribution and decentralization (not just technological decentralization). This includes legal vehicles for implementation.
 
 With the evolution of different legal vehicles in the past 10 years such as B corps and L3Cs, it is possible to envision a world where corporations act as ethical, conscientious persons. However, these vehicles only go so far. The ownership is still congealed at the top of a hierarchy in most cases, rather than distributed among the community of users (in tech startups atleast). Also, there is a price to pay to engage in the B certification standard process: B Corporation certification has a set of exclusively licensed standards that must be audited every 2 years in order to maintain compliance, which is not open-sourced. It costs a hefty enough amount of money to dissuade any bootstrapped startup from considering it (or atleast it did last I checked).
 
@@ -30,4 +28,4 @@ Overall, investing in the community of people who have a valid stake in your suc
 
 There is a further step required, which includes accessibility and usability of these infrastructures for the average user. In crypto, this is a widespread problem that many are tackling. It is worth it just to notice that there is currently a gap between what is available and usable versus what is accessible to the average human with medium internet skills. Downloading Metamask, obtaining ETH, these take time, resources (read: money, internet access, etc.), and skills. They may be barriers to the general population to be engaged, cutting them off from this decentralized phenomenon, preventing their engagement in DeFi, better financial opportunities, and eventually even career options.
 
-In conclusion, I'm excited about the future of corporations because of the promise of distributed governance, ownership, and general decentalization that is spearheaded, technologically, by crypto (specifically Ethereum). Traditional challenges of flat organizations do not escape crypto tech startups aiming to distribute governance and ownership and reach consensus. There are solutions in the works. It is possible that, in the future, a corporation may very well be just a mesh network of interested parties with values aligned seeking to do good and do well, pursuing the triple bottom-line!
+In conclusion, I'm excited about the future of corporations because of the promise of distributed governance, ownership, and general decentalization that is spearheaded, technologically, by crypto (specifically Ethereum). Traditional challenges of flat organizations do not escape crypto tech startups aiming to distribute governance and ownership and reach consensus. There are solutions in the works. It is possible that, in the future, a corporation may very well be just a mesh network of interested parties with values aligned seeking to do good and do well, pursuing the triple bottom-line! 
