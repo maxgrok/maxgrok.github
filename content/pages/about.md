@@ -4,28 +4,49 @@ title: About me
 slug: about
 draft: false
 ---
-<p>I'm a lifelong learner. </p>
+<p>I'm a lifelong learner, full-stack Dapp developer, smart contract engineer, and tech startup founder. </p>
 
 ## Languages and Tools
 
-I develop Dapps and smart contracts from scratch using the following tools and languages and frameworks.   
+I develop Dapps and smart contracts from scratch using the following tools and languages and frameworks. 
 
 + **Mockup/Design Tools:** Balsamiq, InvisionApp, Sketch
-+ **Development:** Atom, Sublime Text, CLI, Git, SourceTree, Pivotal Tracker, Atlassian Confluence
-+ **Languages:** Solidity, Javascript, Ruby, HTML5, CSS3, SQL, postgresql
-+ **Frameworks:** Truffle, Ganache, Ruby on Rails, React.js, Bootstrap, Semantic UI
++ **Development:** Atom, Sublime Text, CLI, Git, Pivotal Tracker, Atlassian Confluence, Github Projects, Trello
++ **Languages:** Solidity, Javascript, Ruby, HTML, CSS, SQL
++ **Frameworks:** Truffle, Ganache, Gatsby, Ruby on Rails, React.js, Bootstrap, Semantic UI, Material Design
 
 <h2 >Timeline</h2>
 <ul class="timeline">
+
+<strong>mapz.guide.</strong> <em>August 2020 - Current</em><br />
+<a href="http://www.lexDAO.org/">http://www.mapz.guide/</a></p>
+<div class="desc" style="text-align:left;"><em>Rails, postgresql, web3.js, React, Solidity, Truffle.</em></div>
+<p>Building a free and low-cost resource directory with reviews.</p><br/>
+
+<strong>lexDAO.</strong> <em>July 2020 - Current</em><br />
+<a href="http://www.lexDAO.org/">http://www.lexDAO.org/</a></p>
+<div class="desc" style="text-align:left;"><em>web3.js, React, Solidity, Truffle.</em></div>
+<p>Member of the legal engineers club.</p><br/>
+
 <strong>Raid Guild.</strong> <em>April 2020 - Current</em><br />
 <a href="http://www.raidguild.org/">http://www.raidguild.org/</a></p>
-<p>Slaying Web3 Demons. Together.</p><br/>
+<div><div class="desc" style="text-align:left;"><em>Rails, postgresql, web3.js, React, Solidity, Truffle.</em></div>
+<p style="text-align: left;">Slaying Web3 Demons. Together.</p><br/>
 
-<strong>DeLance.</strong> <em>February 2020 - Current</em><br />
-<a href="http://www.delance.app/">http://www.delance.app/</a></p>
-<p>Making Technical Freelancers More Money.</p><br/>
 <hr/>
-
+<li style="list-style-type: none;">
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="img"></span>
+				<span class="flag"><strong>Co-Founder.</strong></span>
+				<span class="flag">Delance</span><br>
+				<span style="text-align:right;">February 2020 - <strong>September 2020</strong></span></span>
+			</div><br>
+			<div><span style="text-align:right;"><em></em></span> <div class="desc" style="text-align:right;">web3.js, React, Solidity, Truffle..</div>
+			<div><div class="desc" style="text-align:right;">Building a two-sided marketplace on-chain for freelancers.</div></div>
+		</div>
+	</li>
+	<hr/>
 <li style="list-style-type: none;">
 		<div class="direction-r">
 			<div class="flag-wrapper">
@@ -38,6 +59,7 @@ I develop Dapps and smart contracts from scratch using the following tools and l
 			<div><div class="desc" style="text-align:right;">Developing smart contracts and Dapps.</div></div>
 		</div>
 	</li>
+	<hr/>
 <li style="list-style-type: none;">
 		<div class="direction-l">
 			<div class="flag-wrapper">
@@ -46,8 +68,8 @@ I develop Dapps and smart contracts from scratch using the following tools and l
 				<span class="flag">Pragma</span><br>
 				<span style="text-align:right;">June 2019 - <strong>October 2019</strong></span></span>
 			</div><br>
+			<div><span style="text-align:left;"><em></em></span> <div class="desc" style="text-align:right;">web3.js, React, Solidity, Truffle..</div>
 			<div><span style="text-align:left;"><em></em></span> <div class="desc" style="text-align:right;">Making the world more helpful.</div>
-			<div><div class="desc" style="text-align:right;">Developing an MVP.</div></div>
 		</div>
 	</li>
 	<hr/>

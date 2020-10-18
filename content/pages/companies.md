@@ -4,11 +4,26 @@ title: Companies
 slug: companies
 draft: false
 ---
+
+<strong>mapz.guide.</strong> <em>August 2020 - Current</em><br />
+<a href="http://www.lexDAO.org/">http://www.mapz.guide/</a></p>
+<div class="desc" style="text-align:left;"><em>Rails, postgresql, web3.js, React, Solidity, Truffle.</em></div>
+<p>Building a free and low-cost resource directory with reviews.</p><br/>
+
+<hr/>
+
+<strong>lexDAO.</strong> <em>July 2020 - Current</em><br />
+<a href="http://www.lexDAO.org/">http://www.lexDAO.org/</a></p>
+<div class="desc" style="text-align:left;"><em>web3.js, React, Solidity, Truffle.</em></div>
+<p>Member of the legal engineers club.</p><br/>
+
+<hr/>
+
 <strong>Raid Guild.</strong> <em>April 2020 - Current</em><br />
 <a href="http://www.raidguild.org/">http://www.raidguild.org/</a></p>
 <p>Slaying Web3 Demons. Together.</p><br/>
 <hr/>
-<strong>DeLance.</strong> <em>February 2020 - Current</em><br />
+<strong>DeLance.</strong> <em>February 2020 - September 2020.</em><br />
 <a href="http://www.delance.app/">http://www.delance.app/</a></p>
 <p>Making Technical Freelancers More Money.</p><br/>
 <hr/>
