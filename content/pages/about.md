@@ -19,27 +19,26 @@ I develop Dapps and smart contracts from scratch using the following tools and l
 <h3>Current</h3>
 <ul class="timeline">
 
-<strong>mapz.guide.</strong> <em>August 2020 - Current</em><br />
-<a href="http://www.lexDAO.org/">http://www.mapz.guide/</a></p>
+<strong>Founder. mapz.guide.</strong> <em>August 2020 - Current</em><br />
+<a href="http://www.mapz.guide/">http://www.mapz.guide/</a></p>
 <div class="desc" style="text-align:left;"><em>Rails, postgresql, web3.js, React, Solidity, Truffle.</em></div>
 <p>Building a free and low-cost resource directory with reviews.</p><br/>
 
-<strong>lexDAO.</strong> <em>July 2020 - Current</em><br />
+<strong>Member. @lexDAO.</strong> <em>July 2020 - Current</em><br />
 <a href="http://www.lexDAO.org/">http://www.lexDAO.org/</a></p>
 <div class="desc" style="text-align:left;"><em>web3.js, React, Solidity, Truffle.</em></div>
 <p>Member of the legal engineers club.</p><br/>
 
-<strong>Raid Guild.</strong> <em>April 2020 - Current</em><br />
+<strong>Warrior, Wizard, Paladin, Cleric, and Monk. @Raid Guild.</strong> <em>April 2020 - Current</em><br />
 <a href="http://www.raidguild.org/">http://www.raidguild.org/</a></p>
 <div><div class="desc" style="text-align:left;"><em>Rails, postgresql, web3.js, React, Solidity, Truffle.</em></div>
 <p style="text-align: left;">Slaying Web3 Demons. Together.</p><br/>
 
 <hr/>
 <h3>Past</h3><br/>
-<strong>KERNEL 0 Genesis Block.</strong> <em>July 2020 - September 2020</em><br />
-<a href="http://www.kernel.community/">http://www.kernel.community/</a></p>
-<div><div class="desc" style="text-align:left;"><em>Rails, postgresql, web3.js, React, Solidity, Truffle.</em></div>
-<p style="text-align: left;">web3 community. Built MVP for Delance.</p><br/>
+<strong>Cohort Member. <a href="https://kernel.community/">KERNEL 0 Genesis Block.</strong></a><br/>July 2020 - <strong>September 2020</strong><br />
+<div><div class="desc" style="text-align:right;">Rails, postgresql, web3.js, React, Solidity, Truffle.</div>
+<p style="text-align: right;">web3 community. Built MVP for Delance.</p><br/>
 
 <li style="list-style-type: none;">
 		<div class="direction-l">
