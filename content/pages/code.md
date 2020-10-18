@@ -5,6 +5,7 @@ socialImage: "/media/image-4.jpg"
 slug: code
 draft: false
 ---
+
 <h3>Dapps & Smart Contracts</h3>
 
 <strong>Proof of Existence DApp</strong><br>Built with React, Truffle, and Solidity<br> <a href="http://www.github.com/maxgrok/notary-Dapp-rinkeby">GitHub Repo</a><br /> <em style="text-align:right;">2020</em><br>

@@ -16,6 +16,7 @@ I develop Dapps and smart contracts from scratch using the following tools and l
 + **Frameworks:** Truffle, Ganache, Gatsby, Ruby on Rails, React.js, Bootstrap, Semantic UI, Material Design
 
 <h2 >Timeline</h2>
+<h3>Current</h3>
 <ul class="timeline">
 
 <strong>mapz.guide.</strong> <em>August 2020 - Current</em><br />
@@ -34,6 +35,12 @@ I develop Dapps and smart contracts from scratch using the following tools and l
 <p style="text-align: left;">Slaying Web3 Demons. Together.</p><br/>
 
 <hr/>
+<h3>Past</h3><br/>
+<strong>KERNEL 0 Genesis Block.</strong> <em>July 2020 - September 2020</em><br />
+<a href="http://www.kernel.community/">http://www.kernel.community/</a></p>
+<div><div class="desc" style="text-align:left;"><em>Rails, postgresql, web3.js, React, Solidity, Truffle.</em></div>
+<p style="text-align: left;">web3 community. Built MVP for Delance.</p><br/>
+
 <li style="list-style-type: none;">
 		<div class="direction-l">
 			<div class="flag-wrapper">
