@@ -8,7 +8,7 @@ draft: false
 
 ## Languages and Tools
 
-I develop Dapps and smart contracts from scratch using the following tools and languages and frameworks. 
+I develop Dapps and smart contracts from scratch using the following tools and languages and frameworks.
 
 + **Mockup/Design Tools:** Balsamiq, InvisionApp, Sketch
 + **Development:** Atom, Sublime Text, CLI, Git, Pivotal Tracker, Atlassian Confluence, Github Projects, Trello
