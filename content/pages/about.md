@@ -11,9 +11,9 @@ draft: false
 I develop Dapps and smart contracts from scratch using the following tools and languages and frameworks.
 
 + **Mockup/Design Tools:** Balsamiq, InvisionApp, Sketch
-+ **Development:** Atom, Sublime Text, CLI, Git, Pivotal Tracker, Atlassian Confluence, Github Projects, Trello
++ **Development:** Atom, Sublime Text, VSCode, CLI, Git, Pivotal Tracker, Atlassian Confluence, Github Projects, Trello, Ganache
 + **Languages:** Solidity, Javascript, Ruby, HTML, CSS, SQL
-+ **Frameworks:** Truffle, Ganache, Gatsby, Ruby on Rails, React.js, Bootstrap, Semantic UI, Material Design
++ **Frameworks:** Truffle, Gatsby, Ruby on Rails, React.js, Bootstrap, Semantic UI, Material Design
 
 <h2 >Timeline</h2>
 <h3>Current</h3>
