@@ -17,3 +17,6 @@
 2020.08.17 11:33:17 INFO  time: initialize in 2.08s
 2020.08.17 11:33:25 WARN  no build tool detected in workspace '/Users/maxgrok/Desktop/maxs_blog'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2020.08.17 11:47:23 INFO  shutting down Metals
+2020.10.29 16:46:36 INFO  started: Metals version 0.9.4 in workspace '/Users/maxgrok/Desktop/maxs_blog' for client vscode.
+2020.10.29 16:46:37 INFO  time: initialize in 1.49s
+2020.10.29 16:46:39 WARN  no build tool detected in workspace '/Users/maxgrok/Desktop/maxs_blog'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
