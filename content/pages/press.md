@@ -10,7 +10,7 @@ draft: false
    <blockquote>Max is of the rare breed of innovators who combine optimism with perseverance – not only will he change the world, he’ll bring you along with him."</blockquote>
    <div class="right"><strong>Scout Sujyot</strong></div>
     <blockquote>He has the rare combination of knowledge, perseverance and commitment to create meaningful change in the world that is as rare as it is inspiring."</blockquote>
-   <div class="right"><strong>Rachel Simpson<br /></strong><strong>MD/PHD, Residency, </strong><strong>University of Rochester</strong></div>
+   <div class="right"><strong>Rachel Simpson<br /></strong><strong>MD/PHD Resident, </strong><strong>University of Rochester</strong></div>
 <div>
 
 <p>For inquiries, please contact <a href="mailto:max@maxgrok.com">me</a>.</p>
