@@ -7,10 +7,14 @@ draft: false
 ---
 <h3>Most Recent</h3>
 
-<strong>Consensys Academy Blockchain Developer Bootcamp</strong><br>Web3.js, Solidity, Truffle, Geth, Ganache,and more.<br> <em style="text-align:right;">October 2019 - February 2020</em><br>
+
+<strong>KERNEL Genesis Block 0</strong><br>Web3.js, Solidity, Truffle, Geth, Ganache,and more.<br> <em style="text-align:right;">June 2020 - August 2020</em><br>
+
 <!-- TODO: edit this to include most recent education -->
 
 <h3>Past</h3>
+
+<strong>Consensys Academy Blockchain Developer Bootcamp</strong><br>Web3.js, Solidity, Truffle, Geth, Ganache,and more.<br> <em style="text-align:right;">October 2019 - February 2020</em><br>
 
 <strong style="color:#ef6530;">YC Startup School.</strong><br>Tech Startups, Sales, Marketing, and more.<br><em style="text-align:right;">2019.</em><br>
 
