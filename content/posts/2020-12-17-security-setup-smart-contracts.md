@@ -1,6 +1,6 @@
 ---
 template: post
-title: Setup a Smart Contract Security Auditing Local Environment in OS X
+title: Audit Smart Contracts with Static Analysis
 slug: security-audit-setup-explained
 draft: false
 date: 2020-12-17T09:39:47.348Z
