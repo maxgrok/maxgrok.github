@@ -73,7 +73,7 @@
     "invariant": "^2.2.4",
     "katex": "^0.11.1",
     "kind-of": "^6.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "minimist": "^1.2.3",
     "moment": "^2.24.0",
     "netlify-cms-app": "^2.12.12",
